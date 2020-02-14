@@ -10,6 +10,7 @@
 
 Utilizaremos una configuración de altavoz de 8 pulgadas con motor de compresión de 1 pulgada.
 Sistema de amplificación activo no autoamplificado. (Filtros y eq. antes de la amplificación en vías separadas, pero amplificadores externos a la caja del altavoz.
+Seguiremos esta guía: http://www.eighteensound.com/media/W1siZiIsIjIwMTgvMTAvMjMvMTFfMzVfNTZfOF8xOF9Tb3VuZF84XzJfV2F5c192MS5wZGYiXV0/18_Sound_8_2_Ways_v1.pdf
 
 Altavoces:
 
