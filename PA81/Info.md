@@ -31,12 +31,12 @@ Compraremos este kit, que se ahorran algunas pelas: https://www.lean-business.co
 
 ## Caja y materiales para su construcción: 52.69€
 
-Tablero: https://www.bricomart.es/tablero-contrachapado-de-chopo-215-x-60-x-1-8-cm.html 26€
-Pintura: https://www.thomann.de/es/warnex_strukturlack_1kg.htm 24,90€
-Conector: Neutrik NL4 MP https://www.thomann.de/es/neutrik_nl4mp_dtyp.htm 1,79€
-Cola para madera:
-Tornillos:
-
+- Tablero: https://www.bricomart.es/tablero-contrachapado-de-chopo-215-x-60-x-1-8-cm.html 26€
+- Pintura: https://www.thomann.de/es/warnex_strukturlack_1kg.htm 24,90€
+- Conector: Neutrik NL4 MP https://www.thomann.de/es/neutrik_nl4mp_dtyp.htm 1,79€
+- Cola para madera:
+- Tornillos:
+- Tintero
 
 
 
