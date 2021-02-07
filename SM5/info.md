@@ -1,15 +1,7 @@
-# Altavoces
-Nuestros diseños de altavoces
-
-<!--
- ### PA81
-% Diseño de altavoces multipropósito de alto desempeño en tamaño de woofer 8" y tweeter 1".
--->
-
-## SM5 (Studio Monitor 5")
+# SM5 (Studio Monitor 5")
 Monitores de escritorio con cajas impresas en 3D.
 
-### Configuración:
+## Configuración:
 - Dos vías con bass reflex.
   - Cono de 5" Fane Studio 5 FR
   - tweeter de cúpula Beyma T2030.
@@ -19,3 +11,7 @@ Monitores de escritorio con cajas impresas en 3D.
 - Procesado: TRacks DSP 4x4 Mini
 - Amplificación: TDA7498 160W x4
 - Fuente de alimentación: Mean Well EPP-500-36V
+
+## Conexiones
+
+## Esquema
